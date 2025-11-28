@@ -16,7 +16,7 @@ BOT_TOKEN = '8497268891:AAHBHkBqQwvzUsOfj0E6VUcot3Zl6H-OhdU'
 DATA_FILE = 'registered_chats.json'
 
 # Список разрешённых @username в Телеграм
-ALLOWED_USERNAMES = { 'SpammmBots', 'streetjumper23' }
+ALLOWED_USERNAMES = { 'Nonna345', 'streetjumper23' }
 
 # Список заблокированных user_id (добавь user_id пользователя, которого нужно заблокировать)
 BLOCKED_USER_IDS = {6681493700}  # Замени на реальный user_id, если отличается
@@ -268,4 +268,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
